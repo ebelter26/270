@@ -1,0 +1,55 @@
+#content{
+    width: 100%;
+}
+#content img{
+    width: 100%;
+    height: auto;
+}
+#content video{
+    width: 100%;
+    height: auto;
+}
+
+body{
+    background-color: #EAEAEA;
+    color: #231F20;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* Add a black background color to the top navigation */
+.menu {
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+    
+  }
+  
+  /* Style the links inside the navigation bar */
+  .menu a {
+    float: left;
+    color: #231F20;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .menu a:hover {
+    background-color: #AD974F;
+    color: #EAEAEA;
+  }
+  
+  /* Add a color to the active/current link */
+  .menu a.active {
+    background-color: #8E793E;
+    font-weight:bold;
+    color: white;
+  }
+  .menu li a{
+    float: center;
+  }
+#content h1{
+    font-family: 'Lato', sans-serif;
+}
+
+
